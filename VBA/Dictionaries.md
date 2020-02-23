@@ -2,7 +2,7 @@
 
 ### [Dictionary to JSON](https://github.com/myattadam/VBA-tools/blob/master/DictToJSON.bas)
 
-[Example file](E:\Projects\Notes\VBA\dictionary_example.xlsm)
+[Example file](dictionary_example.xlsm)
 
 This simple set of functions converts a nested dictionary structure to JSON format.
 ```VB
