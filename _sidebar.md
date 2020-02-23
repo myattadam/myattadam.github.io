@@ -1,6 +1,6 @@
 # Adams Website
 - [Google](www.google.com.au)
 - VBA
-    - [Arrays](./Arrays.md)
-    - [Class Attributes](./Class attributes.md)
-    - [Dictionaries](./Dictionaries.md)
+    - [Arrays](VBA/Arrays.md)
+    - [Class Attributes](VBA/ClassAttributes.md)
+    - [Dictionaries](VBA/Dictionaries.md)
