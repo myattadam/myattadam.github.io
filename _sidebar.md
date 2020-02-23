@@ -1,4 +1,3 @@
-# Adams Website
 - VBA
     - [Arrays](VBA/Arrays.md)
     - [Class Attributes](VBA/ClassAttributes.md)
@@ -8,3 +7,7 @@
 - Web Development
     - CSS
         - [Empty Selector](WebDev/CSSEmptySelector.md)
+
+- Maths
+    - Statistics
+        - [Trends](Math/Statistics/Trends.md)
