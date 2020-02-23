@@ -9,4 +9,7 @@
 - Multiple themes
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+
+<!-- background image -->
+
+![](media/simple.jpg)
