@@ -5,9 +5,7 @@
     * [VBA Tools](VBA/VBAtools.md)
 
 * Web Development
-    * CSS
-        * [Empty Selector](WebDev/CSSEmptySelector.md)
+    * [Empty Selector](WebDev/CSSEmptySelector.md)
 
 * Maths
-    * Statistics
-        * [Trends](Math/Statistics/Trends.md)
+    * [Trends](Math/Statistics/Trends.md)
